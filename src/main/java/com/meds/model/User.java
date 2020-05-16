@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 @Entity
 @Component
 public class User {
-
+//amit singh to check changes 
 	@Id
 	private long id;
 	@Column(name = "user_id")
