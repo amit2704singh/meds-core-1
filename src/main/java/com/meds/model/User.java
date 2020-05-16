@@ -13,6 +13,7 @@ import org.springframework.stereotype.Component;
 public class User {
 //amit singh to check changes 
 //second change
+//third change
 	@Id
 	private long id;
 	@Column(name = "user_id")
